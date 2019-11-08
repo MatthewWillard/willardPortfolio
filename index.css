@@ -960,10 +960,8 @@ iframe{
         background-size: contain;
     }
     .first-page{ 
-        background-image: none;
-        
+        background-image: none;  
         margin-bottom: 250px;
-
     }
     .homepage-info{
         height: 600px;
